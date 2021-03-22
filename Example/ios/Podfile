@@ -34,7 +34,7 @@ target 'ImageCropToolsExample' do
   pod 'glog', :podspec => '../node_modules/react-native/third-party-podspecs/glog.podspec'
   pod 'Folly', :podspec => '../node_modules/react-native/third-party-podspecs/Folly.podspec'
 
-  pod 'react-native-image-crop-tools', :path => '../node_modules/react-native-image-crop-tools'
+  pod 'react-native-image-crop-tools-v2', :path => '../node_modules/react-native-image-crop-tools-v2'
 
   target 'ImageCropToolsExampleTests' do
     inherit! :search_paths

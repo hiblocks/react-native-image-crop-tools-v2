@@ -1,6 +1,6 @@
 //
 //  RCTCropView.m
-//  react-native-image-crop-tools
+//  react-native-image-crop-tools-v2
 //
 //  Created by Hunaid Hassan on 06/01/2020.
 //

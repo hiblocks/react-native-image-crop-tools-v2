@@ -3,4 +3,4 @@ node_modules
 .DS_Store
 dist/
 build/
-/android/react-native-image-crop-tools.iml
+/android/react-native-image-crop-tools-v2.iml

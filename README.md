@@ -1,4 +1,4 @@
-# react-native-image-crop-tools
+# react-native-image-crop-tools-v2
 
 ## Previews
 <p float="left">
@@ -8,13 +8,13 @@
 
 ## Getting started
 
-`$ yarn add react-native-image-crop-tools`
+`$ yarn add react-native-image-crop-tools-v2`
 
 ### Mostly Automatic installation
 
 Only RN > 0.61.x is supported.
 - Android: Installation is automatic.
-- iOS: Add `pod 'react-native-image-crop-tools', :path => '../node_modules/react-native-image-crop-tools'` in your podfile below the line `use_native_modules!`. Then run `pod install`in iOS folder.
+- iOS: Add `pod 'react-native-image-crop-tools-v2', :path => '../node_modules/react-native-image-crop-tools-v2'` in your podfile below the line `use_native_modules!`. Then run `pod install`in iOS folder.
    
 ### Why another cropping library?
 
@@ -32,7 +32,7 @@ This library is not supposed to work with local images. There are very few useca
 
 ## Usage
 ```javascript
-import { CropView } from 'react-native-image-crop-tools';
+import { CropView } from 'react-native-image-crop-tools-v2';
 
         <CropView
           sourceUrl={uri}

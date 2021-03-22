@@ -12,7 +12,7 @@
   "dependencies": {
     "react": "16.9.0",
     "react-native": "0.61.5",
-    "react-native-image-crop-tools": "file:..",
+    "react-native-image-crop-tools-v2": "file:..",
     "react-native-image-picker": "^1.1.0"
   },
   "devDependencies": {

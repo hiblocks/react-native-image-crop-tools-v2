@@ -1,6 +1,6 @@
 //
 //  CropViewManager.m
-//  react-native-image-crop-tools
+//  react-native-image-crop-tools-v2
 //
 //  Created by Hunaid Hassan on 31/12/2019.
 //

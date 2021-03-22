@@ -8,7 +8,7 @@
 
 import React, {useState, useRef} from 'react';
 import {Button, StatusBar, StyleSheet, View, Image} from 'react-native';
-import {CropView} from 'react-native-image-crop-tools';
+import {CropView} from 'react-native-image-crop-tools-v2';
 import ImagePicker from 'react-native-image-picker';
 
 const App: () => React$Node = () => {
